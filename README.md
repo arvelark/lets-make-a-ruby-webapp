@@ -12,7 +12,7 @@ Here we go:
  
 - If using rbenv, let's install Ruby 2.1.1. 
 - In Terminal.app, enter: ```rbenv install 2.1.1``` (This'll take a few minutes.)
-
+- ```rbenv global 2.1.1``` to set that version of ruby as the default for your computer.
 - ```ruby -v``` should show 2.1.1
 - ```gem install bundler```
 
