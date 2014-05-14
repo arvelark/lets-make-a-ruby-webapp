@@ -32,4 +32,4 @@ Here we go:
 ## Step 5: How do I put this on the Internet?
 
  - [Sign up for Heroku](https://id.heroku.com/signup)
- - [Heroku has great resources, here's a how-to on deploying this kind of app](https://devcenter.heroku.com/articles/rack)
+ - [Heroku has great resources, here's a how-to on deploying this kind of app](https://devcenter.heroku.com/articles/rack#sinatra)
