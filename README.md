@@ -12,14 +12,17 @@ Here we go:
  
 - If using rbenv, let's install Ruby 2.1.1. 
 - In Terminal.app, enter: ```rbenv install 2.1.1``` (This'll take a few minutes.)
-- ```cd``` into your cloned copy of the code repo. This'll depend on where the 
+
 - ```ruby -v``` should show 2.1.1
 - ```gem install bundler```
-- ```bundle``` will install the required libraries
 
 ## Step 3: Fork my repo, clone it
  - This one: [https://github.com/ivarvong/lets-make-a-ruby-webapp](https://github.com/ivarvong/lets-make-a-ruby-webapp)
  - And clone it to your computer
+ - ```cd``` into your cloned copy of the code repo. This'll depend on where the 
+ - ```bundle``` will install the required libraries
+ - ```rackup``` will run the web server on your laptop. 
+ - And it's running! [http://localhost:9292](http://localhost:9292)
 
 ## Step 4: Hack on some Ruby code	
  - Edit the ```views/layout.erb``` file that provides the wrapper to each page
