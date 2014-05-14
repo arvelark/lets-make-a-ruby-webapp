@@ -28,3 +28,8 @@ Here we go:
  - Edit the ```views/layout.erb``` file that provides the wrapper to each page
  - Edit the ```views/index.erb``` page that's rendered for ```/```
  - Make a new request handler (the ```get '/stuff' do``` part) and create the corresponding view in the ```/views``` folder.
+
+## Step 5: How do I put this on the Internet?
+
+ - [Sign up for Heroku](https://id.heroku.com/signup)
+ - [Heroku has great resources, here's a how-to on deploying this kind of app](https://devcenter.heroku.com/articles/rack)
